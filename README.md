@@ -70,11 +70,10 @@ The project followed a structured approach, incorporating various data analysis 
 
 This repository contains the following key components:
 
-*   **`/notebooks` (Suggested Folder):** Jupyter notebooks detailing the code implementation for each project phase (EDA, A/B Testing, Regression, Classification).
-*   **`/summaries` (Suggested Folder):** The executive summary PDF/Image files provided.
-*   **`/pace_documents` (Suggested Folder):** Completed PACE strategy documents guiding the project lifecycle (if available).
+*   **`/notebooks`:** Jupyter notebooks detailing the code implementation for each project phase (EDA, A/B Testing, Regression, Classification).
+*   **`/summaries`:** The executive summary PDF/Image files provided.
+*   **`/pace_documents`:** Completed PACE strategy documents guiding the project lifecycle (if available).
 *   **`README.md`:** This file, providing a comprehensive overview of the project.
-*   *(Optional: `/data_samples` or links to data source)*
 
 ## How to Use This Repository
 
